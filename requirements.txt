@@ -234,9 +234,7 @@ python-socketio==5.10.0
 pytils==0.4.1
 pyttsx3==2.98
 pytz==2023.4
-pywin32==306
-pywin32-ctypes==0.2.3
-pywinpty==2.0.12
+
 pyxnat==1.6.3
 PyYAML==6.0.2
 pyzmq==25.1.2
